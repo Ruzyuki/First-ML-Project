@@ -1,2 +1,2 @@
 # First-ML-Project
-My first ML project
+This is my first ML project
